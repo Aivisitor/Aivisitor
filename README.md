@@ -19,27 +19,14 @@ I'm Aditya, an MLOps Engineer at Amazon with a deep passion for Artificial Intel
 - **Email**: [abhalerao64@gmail.com](aivisitor75@gmail.com)
 
 ## Skills & Tools
-
+- **Big Data Technologies**: Apache Spark,Apache Flink
 - **Languages**: Python,PL SQL, Cassandra
 - **Frameworks & Tools**: PySpark, Databricks, Snowflake
 - **Cloud Platforms**: GCP, AWS, Azure
 
-## Projects & Contributions
-
-I'm actively looking to contribute to open-source projects and collaborate on innovative solutions in the fields of ML, NLP, and MLOps. Check out some of my notable projects:
-
-- [Project 1](link): Description
-- [Project 2](link): Description
-- [Project 3](link): Description
-
 ## Let's Connect!
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaboration. Together, we can innovate and create something amazing!
-
-<!---
-Aivisitor/Aivisitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 **“The best way to predict the future is to invent it.” – Alan Kay**
 
