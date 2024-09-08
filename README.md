@@ -15,7 +15,7 @@ I'm Aditya, an MLOps Engineer at Amazon with a deep passion for Artificial Intel
 
 ## Get in Touch
 
-- **Kaggle**: [Aditya](https://www.kaggle.com/aditya75)
+- **Kaggle**: [Aditya](https://www.kaggle.com/aivisitor))
 - **Email**: [abhalerao64@gmail.com](aivisitor75@gmail.com)
 
 ## Skills & Tools
